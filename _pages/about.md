@@ -117,9 +117,3 @@ Participated in research on hardware security and pre-silicon security design.
 - Second Prize, Central China Region, China Collegiate Computing Contest – WeChat Mini Program Track.
 - First Prize, University Level, 8th China International College Students' "Internet+" Innovation and Entrepreneurship Competition.
 
-## Technical Skills
-
-- **Programming:** Python, MATLAB
-- **Deep Learning:** PyTorch, CNN, GCN
-- **Research Methods:** Reinforcement Learning, Deep Learning
-- **Academic Writing:** LaTeX and Scientific Manuscript Preparation
