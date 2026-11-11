@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
 
 I am Bolun Li (李博伦), currently a Ph.D. student at the **School of Computer Science, Sun Yat-sen University**, since September 2026.
 
