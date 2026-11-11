@@ -19,3 +19,17 @@ My research interests lie at the intersection of **hardware security, reinforcem
 - Hardware Security
 - Hardware Trojan Detection
 - Deep Learning
+
+# Education
+
+<ul style="list-style-type: none; margin-left: 0; padding-left: 0;">
+  <li>
+    <i>2026.09 – Present</i>, Ph.D. Student in School of Computer Science, Sun Yat-sen University, Guangzhou, China.
+  </li>
+  <li>
+    <i>2023.09 – 2026.06</i>, M.S. in Computer Science and Technology, Fuzhou University, Fuzhou, China.
+  </li>
+  <li>
+    <i>2019.09 – 2023.06</i>, B.Eng. in Software Engineering, University of South China, Hengyang, China.
+  </li>
+</ul>
