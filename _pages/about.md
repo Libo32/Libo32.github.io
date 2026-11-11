@@ -1,4 +1,3 @@
-
 ---
 permalink: /
 title: "About Me"
@@ -7,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ## About Me
 
 I am **Bolun Li (李博伦)**, currently a Ph.D. student at the **School of Computer Science, Sun Yat-sen University**, since September 2026.
@@ -20,9 +18,7 @@ My research interests lie at the intersection of **hardware security, reinforcem
 
 - Hardware Security
 - Hardware Trojan Detection
-- Reinforcement Learning
 - Deep Learning
-- AI for Electronic Design Automation (EDA)
 
 ## Education
 
