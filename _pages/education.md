@@ -1,11 +1,9 @@
 ---
 layout: single
-title: "Education"
 permalink: /education/
 author_profile: true
 ---
 
-## Education
 
 ### Sun Yat-sen University
 
