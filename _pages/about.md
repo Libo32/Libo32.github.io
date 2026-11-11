@@ -14,7 +14,7 @@ Prior to that, I received my M.S. degree in Computer Science and Technology from
 
 My research interests lie at the intersection of **hardware security, reinforcement learning, and deep learning**. My previous research primarily focused on hardware Trojan detection, particularly identifying malicious circuitry in incomplete or partially reconstructed netlists.
 
-## Research Interests
+# Research Interests
 
 - Hardware Security
 - Hardware Trojan Detection
