@@ -12,14 +12,11 @@ main:
   - title: "About Me"
     url: /
 
-  - title: "Research Interests"
-    url: /#research-interests
-
   - title: "Education"
-    url: /#education
+    url: /education/
 
   - title: "Publications"
-    url: /#publications
+    url: /publications/
 
   - title: "Awards"
-    url: /#awards-and-honors
+    url: /awards-and-honors/
