@@ -28,9 +28,7 @@ author:
   location: "China"
   employer: "Sun Yat-sen University"
   email: "liblun6@mail2.sysu.edu.cn"
-  github: "Libo32"
-  googlescholar:
-  orcid:
+  googlescholar: "https://scholar.google.com/citations?hl=zh-CN&user=VUotC9kAAAAJ&view_op=list_works&sortby=pubdate"
 
   # Academic websites
   academia         : # URL
