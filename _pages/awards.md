@@ -1,11 +1,8 @@
 ---
 layout: single
-title: "Awards and Honors"
 permalink: /awards-and-honors/
 author_profile: true
 ---
-
-## Awards and Honors
 
 - **Second-Class Scholarship**, University of South China, 2021–2022.
 
